@@ -1,4 +1,4 @@
-# Anotações do Módulo 2 do Curso de Python
+# Python: Curso Mundo 02 do Canal Curso em Vídeo
 
 ## Conteúdo:
 
